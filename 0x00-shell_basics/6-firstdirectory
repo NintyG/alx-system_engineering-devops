@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir/tmp/my_first_directory
-bash create_directory.sh
+cd/tmp/my_current_directory
