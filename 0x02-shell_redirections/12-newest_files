@@ -1,2 +1,3 @@
 #!/bin/bash
-ls f1 | head - n 10 
+ls -t | head -n 10
+echo "Newest files listed."
